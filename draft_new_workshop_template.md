@@ -1,0 +1,12 @@
+- [x] Identify Lesson
+- [ ] Create entry in workshops.ncl.ac.uk
+- [ ] Add to team website
+- [ ] Reserve a room
+- [ ] Allocate Instructors
+- [ ] Create Collaborative Document
+- [ ] Create workshop website
+- [ ] Register with Carpentries
+- [ ] Add users to JupyterHub
+- [ ] Start JupyterHub server
+- [ ] Stop JupyterHub server
+- [ ] Survey reminder emails
