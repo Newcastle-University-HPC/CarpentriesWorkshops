@@ -1,4 +1,4 @@
-- [x] Identify Lesson
+- [ ] Identify Lesson
 - [ ] Create entry in workshops.ncl.ac.uk
 - [ ] Add to team website
 - [ ] Reserve a room
