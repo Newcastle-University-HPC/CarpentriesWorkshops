@@ -1,3 +1,11 @@
+---
+name: New Workshop
+about: Use this template creating a new workshop workflow
+title: ""
+labels: workshop
+assignees: 
+---
+
 - [ ] Identify Lesson
 - [ ] Create entry in workshops.ncl.ac.uk
 - [ ] Add to team website
