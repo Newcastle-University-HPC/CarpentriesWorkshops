@@ -6,10 +6,14 @@ labels: workshop
 assignees: 
 ---
 
-- [ ] Identify Lesson
+- [ ] Identify Lesson ()
+- [ ] Reserve a room ()
+- [ ] Allocate Instructors / Helpers ()
+- [ ] Create Collaborative Document
+- [ ] Create workshop website 
 - [ ] Create entry in workshops.ncl.ac.uk
 - [ ] Add to team website
-- [ ] Reserve a room
+
 - [ ] Allocate Instructors
 - [ ] Create Collaborative Document
 - [ ] Create workshop website
