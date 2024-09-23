@@ -9,6 +9,7 @@ assignees:
 - [ ] Identify Lesson
 - [ ] Reserve a room
 - [ ] Book catering
+- [ ] Add course to HPC roadmap (?)
 - [ ] Allocate Instructors / Helpers
 - [ ] Create Collaborative Document
 - [ ] Create workshop website (update _config.yml, index.md, schedule.html)
