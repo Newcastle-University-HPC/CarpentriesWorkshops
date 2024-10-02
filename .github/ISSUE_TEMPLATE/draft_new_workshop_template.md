@@ -8,7 +8,7 @@ assignees:
 
 - [ ] Identify Lesson
 - [ ] Reserve a room
-- [ ] _Book catering - N/A since financial restrictions Oct 2024_
+- [x] _Book catering - N/A since financial restrictions Oct 2024_
 - [ ] Add course to HPC roadmap (?)
 - [ ] Allocate Instructors / Helpers
 - [ ] Create Collaborative Document (As rseteam.ncl@gmail.com, create from template & replace YYYY-MM-DD-NCL)
