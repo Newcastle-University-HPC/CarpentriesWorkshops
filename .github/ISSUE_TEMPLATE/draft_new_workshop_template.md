@@ -21,11 +21,19 @@ assignees:
 ### 2 weeks beforehand:
 - [ ] Pre-workshop survey reminder emails (send from bookings system https://workshops.ncl.ac.uk/)
 ### Shortly beforehand:
+- [] copy attendees list from workshops.ncl.ac.uk to spreasheet in https://newcastle.sharepoint.com/:f:/r/sites/workshoporganisation/Shared%20Documents/Workshop%20Admin/Room%20Bookings%20and%20Attendance?csf=1&web=1&e=bOyGg2
 - [ ] Add users to JupyterHub
 - [ ] Start JupyterHub server
 - [ ] Stop JupyterHub server
 ### 3 days afterwards:
-- [ ] Post-workshop Survey reminder emails
+- [ ] Attendee list from hackmd.io collab doc to pgrdp@newcastle.ac.uk
+- [ ] ? optional? Post-workshop Survey reminder emails to attendee list
+
+
+
+
+
+
 
 Replacement text for 'Accessability' section in index.md
 -
