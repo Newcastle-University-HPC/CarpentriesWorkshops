@@ -8,21 +8,23 @@ assignees:
 
 - [ ] Identify Lesson
 - [ ] Reserve a room
-- [ ] Book catering
+- [ ] _Book catering - N/A since financial restrictions Oct 2024_
 - [ ] Add course to HPC roadmap (?)
 - [ ] Allocate Instructors / Helpers
-- [ ] Create Collaborative Document
+- [ ] Create Collaborative Document (As rseteam.ncl@gmail.com, create from template & replace YYYY-MM-DD-NCL)
 - [ ] Create workshop website (update _config.yml, index.md, schedule.html)
 - [ ] Check links from collab doc and workshop website (maps, schedule, contact emails)
 - [ ] Create entry in workshops.ncl.ac.uk
-- [ ] Add to RSE team website (edit https://github.com/NewcastleRSE/rse-team-website/blob/main/_data/events.csv)
+- [ ] Add to RSE team website (edit [the csv file](https://github.com/NewcastleRSE/rse-team-website/blob/main/_data/events.csv))
 - [ ] Register with Carpentries
 - [ ] Check workshop is visible (https://rse.ncldata.dev/events, https://carpentries.org/index.html, https://workshops.ncl.ac.uk/)
 ### 2 weeks beforehand:
 - [ ] Pre-workshop survey reminder emails (send from bookings system https://workshops.ncl.ac.uk/)
 ### Shortly beforehand:
-- [] copy attendees list from workshops.ncl.ac.uk to spreasheet in https://newcastle.sharepoint.com/:f:/r/sites/workshoporganisation/Shared%20Documents/Workshop%20Admin/Room%20Bookings%20and%20Attendance?csf=1&web=1&e=bOyGg2
+- [ ] copy attendees list from workshops.ncl.ac.uk to spreadsheet in [Sharepoint]( https://newcastle.sharepoint.com/:f:/r/sites/workshoporganisation/Shared%20Documents/Workshop%20Admin/Room%20Bookings%20and%20Attendance?csf=1&web=1&e=bOyGg2)
+- [ ] Calendar invites to instructors/helpers from workshoporganisation@group.newcastle.ac.uk
 - [ ] Add users to JupyterHub
+#### on the day
 - [ ] Start JupyterHub server
 - [ ] Stop JupyterHub server
 ### 3 days afterwards:
