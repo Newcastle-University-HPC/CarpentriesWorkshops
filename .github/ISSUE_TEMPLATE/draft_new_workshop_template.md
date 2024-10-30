@@ -36,6 +36,8 @@ assignees:
 
 ### 3 days afterwards:
 - [ ] Attendee list from hackmd.io collab doc to pgrdp@newcastle.ac.uk
+- [ ] Remove attendee list from hackmd.io
+- [ ] Add no-shows to no-show spreadsheet
 - [ ] ? optional? Post-workshop Survey reminder emails to attendee list
   
   
