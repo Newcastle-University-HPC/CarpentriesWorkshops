@@ -88,3 +88,6 @@ special instructions.
 
 ### Audience interaction tools:  
 https://www.mentimeter.com/, https://claper.co/, https://ncl.vevox.com/
+
+### Contacts at pgrdp
+ Gail de-Blaquiere and Angela McLaughlin <Gail.de-Blaquiere@newcastle.ac.uk>, <pgrdp@newcastle.ac.uk>
