@@ -9,13 +9,14 @@ assignees:
 - [ ] Identify Lesson
 - [ ] Reserve a room
 - [x] _Book catering - N/A since financial restrictions Oct 2024_
-- [ ] Add course to HPC roadmap (?)
+- [ ] Add course to HPC roadmap
 - [ ] Allocate Instructors / Helpers
 - [ ] Create Collaborative Document (As rseteam.ncl@gmail.com, create from template & replace YYYY-MM-DD-NCL)
 - [ ] Create workshop website (update _config.yml, index.md, schedule.html)
 - [ ] Set up Audience Interaction tool 
-- [ ] Check links from collab doc and workshop website (maps, schedule, contact emails)
+- [ ] Check links from **collab doc** and workshop website (maps, schedule, contact emails)
 - [ ] Create ocurrence of this workshop in workshops.ncl.ac.uk
+  - [ ] update reminder email to request participants bring own cup
 - [ ] Add to RSE team website (edit [the csv file](https://github.com/NewcastleRSE/rse-team-website/blob/main/_data/events.csv))
 - [ ] Register with Carpentries
 - [ ] Check workshop is visible (https://rse.ncldata.dev/events, https://carpentries.org/index.html, https://workshops.ncl.ac.uk/)
@@ -29,6 +30,7 @@ assignees:
 - [ ] Add users to JupyterHub
 - [ ] Calendar invites to instructors/helpers from workshoporganisation@group.newcastle.ac.uk
 - [ ] Request self-catering tea/coffee from pgrdp (instead of catering)
+- [ ] Print 'cheat sheets'
 #### on the day
 - [ ] Start JupyterHub server
 - [ ] mark attendees present in workshops.ncl.ac.uk
@@ -39,7 +41,7 @@ assignees:
 - [ ] Attendee list from hackmd.io collab doc to pgrdp@newcastle.ac.uk
 - [ ] Remove attendee list from hackmd.io
 - [ ] Add no-shows to no-show spreadsheet
-- [ ] ? optional? Post-workshop Survey reminder emails to attendee list
+- [ ] ? optional ? Post-workshop Survey reminder emails to attendee list
   
   
   
