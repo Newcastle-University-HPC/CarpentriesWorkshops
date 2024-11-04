@@ -9,7 +9,7 @@ assignees:
 - [ ] Identify Lesson
 - [ ] Reserve a room
 - [x] _Book catering - N/A since financial restrictions Oct 2024_
-- [ ] Add course to HPC roadmap
+- [ ] Add course to HPC roadmap https://github.com/orgs/Newcastle-University-HPC/projects/1
 - [ ] Allocate Instructors / Helpers
 - [ ] Create Collaborative Document (As rseteam.ncl@gmail.com, create from template & replace YYYY-MM-DD-NCL)
 - [ ] Create workshop website (update _config.yml, index.md, schedule.html)
