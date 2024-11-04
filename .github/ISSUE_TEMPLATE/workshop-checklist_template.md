@@ -22,6 +22,7 @@ assignees:
 - [ ] Check workshop is visible (https://rse.ncldata.dev/events, https://carpentries.org/index.html, https://workshops.ncl.ac.uk/)
 
 ### 2 weeks beforehand:
+- [ ] Calendar invites to instructors/helpers from workshoporganisation@group.newcastle.ac.uk
 - [ ] Pre-workshop survey reminder emails (send from bookings system https://workshops.ncl.ac.uk/ _or use mail merge from ? email address_)
 - [ ] Create / locate PPT with [exercises for the workshop](https://newcastle.sharepoint.com/sites/workshoporganisation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fworkshoporganisation%2FShared%20Documents%2FWorkshop%20Admin%2FExercisesLessons)
 - [ ] Ensure the correct instructors and helpers are shown at https://carpentries.org/workshops/#workshop-core
