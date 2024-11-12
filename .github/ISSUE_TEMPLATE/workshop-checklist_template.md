@@ -12,7 +12,7 @@ assignees:
 - [ ] Add course to HPC roadmap https://github.com/orgs/Newcastle-University-HPC/projects/1
 - [ ] Allocate Instructors / Helpers
 - [ ] Create Collaborative Document (As rseteam.ncl@gmail.com, create from template & replace YYYY-MM-DD-NCL)
-- [ ] Create workshop website (update _config.yml, index.md, schedule.html)
+- [ ] Create workshop website from carpentries/workshop-template (update _config.yml, index.md, schedule.html)
 - [ ] Set up Audience Interaction tool 
 - [ ] Check links from **collab doc** and workshop website (maps, schedule, contact emails)
 - [ ] Create ocurrence of this workshop in workshops.ncl.ac.uk
