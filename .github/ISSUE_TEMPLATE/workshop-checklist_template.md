@@ -46,48 +46,6 @@ assignees:
 - [ ] ? optional ? Post-workshop Survey reminder emails to attendee list
   
   
-  
-  
-
-
-
-## Replacement text for 'Accessability' section in index.md
-replace lines 201-227 ({% if online == "false" %} section and para with Carpentries links)
-
-with 188-217 from 2024-09-24-NCL
-
-{% comment %}
-ACCESSIBILITY
-
-Modify the block below if there are any barriers to accessibility or
-special instructions.
-{% endcomment %}
-<p id="accessibility">
-  <strong>Accessibility:</strong>
-{% if online == "false" %}
-  We are committed to making this workshop
-  accessible to everybody.  For workshops at a physical location, the workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
-</p>
-{% else %}
-  We are dedicated to providing a positive and accessible learning environment for all. Please
-  notify the instructors in advance of the workshop if you require any accommodations or if there is
-  anything we can do to make this workshop more accessible to you.
-</p>
-{% endif %}
-
-
 ### Audience interaction tools:  
 https://www.mentimeter.com/, https://claper.co/, https://ncl.vevox.com/
 
