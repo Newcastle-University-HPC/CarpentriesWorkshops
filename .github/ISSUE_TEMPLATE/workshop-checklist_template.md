@@ -13,7 +13,7 @@ assignees:
 - [ ] Allocate Instructors / Helpers
 - [ ] Create Collaborative Document (As rseteam.ncl@gmail.com, create from template & replace YYYY-MM-DD-NCL)
 - [ ] Create workshop website from carpentries/workshop-template
-    - [ ] #35 (update _config.yml, index.md, schedule.html)
+    - [ ] [#35 ](https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/35) (update _config.yml, index.md, schedule.html, python setup)
 - [ ] Set up Audience Interaction tool 
 - [ ] Check links from **collab doc** and workshop website (maps, schedule, contact emails)
 - [ ] Create ocurrence of this workshop in workshops.ncl.ac.uk
