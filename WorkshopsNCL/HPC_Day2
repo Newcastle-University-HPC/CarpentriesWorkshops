@@ -1,0 +1,15 @@
+<p>Pre-requisite <a href="https://workshops.ncl.ac.uk/admin/core/occurrence/55936/">HPC Day 1 of 2: Unix Shell</a></p>
+<p>This course introduces accessing remote advanced computing facilities via the command line and High Performance Computing (HPC). 
+The previous day's course, Unix Shell, will introduce how to use the shell in a HPC context and set up access to an HPC this course. 
+It may be skipped if you have already attended one of our Unix Shell workshops and are familiar with the shell.
+This day will cover how to use HPC systems effectively.</p>
+<p>After completing this course, participants will:</p>
+<ul>
+<li>Understand motivations for using HPC in research.</li>
+<li>Understand how HPC systems are put together to achieve performance and how they differ from desktops/laptops.</li>
+<li>Know how to connect to remote HPC systems and transfer data.</li>
+<li>Be able to use the Bash command line on remote systems.</li>
+<li>Know how to use a scheduler to work on a shared system.</li>
+<li>Be able to use software modules to access different HPC software.</li>
+<li>Be able to work effectively on a remote shared resource.</li>
+</ul>
