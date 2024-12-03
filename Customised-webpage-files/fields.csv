@@ -2,7 +2,7 @@
 "Slug","","YYYY-MM-DD-NCL","YYYY-MM-DD-NCL"
 "file to edit","name","website variable","HDB","BST"
 "https://github.com/NclRSE-Training/[Slug]","Repository Name","","[Slug]","[Slug]"
-"https://github.com/NclRSE-Training/[Slug]","Repository Description","","[workshop title like "Version Control with Git"]","[workshop title like "Version Control with Git"]"
+"https://github.com/NclRSE-Training/[Slug]","Repository Description","","[workshop title like 'Version Control with Git']","[workshop title like 'Version Control with Git']"
 "index.md","Venue","","Newcastle University, Henry Daysh Building","Newcastle University, Barbara Strang Teaching Centre"
 "index.md","Address","{{page.address}}","Henry Daysh Building 6.19 PGR Learning Lab","Barbara Strang Teaching Centre 3.30 CHART cluster"
 "index.md","Country","","gb","
