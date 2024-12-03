@@ -11,7 +11,7 @@ assignees:
 - [x] _Book catering - N/A since financial restrictions Oct 2024_
 - [ ] Add course to HPC roadmap https://github.com/orgs/Newcastle-University-HPC/projects/1
 - [ ] Allocate Instructors / Helpers
-- [ ] Create Collaborative Document (As rseteam.ncl@gmail.com, create from template & replace YYYY-MM-DD-NCL)
+- [ ] Create Collab Document [#47](https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/47)
 - [ ] Create workshop website from carpentries/workshop-template https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/24 
     - [ ] [#35 ](https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/35) (update _config.yml, index.md, schedule.html, python setup)
 - [ ] Set up Audience Interaction tool 
