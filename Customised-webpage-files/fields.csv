@@ -1,43 +1,67 @@
-"Components for a Course","","HDB 6.19","BSTC 3.30"
-"Slug","","YYYY-MM-DD-NCL","YYYY-MM-DD-NCL"
-"file to edit","name","website variable","HDB","BST"
-"https://github.com/NclRSE-Training/[Slug]","Repository Name","","[Slug]","[Slug]"
-"https://github.com/NclRSE-Training/[Slug]","Repository Description","","[workshop title like 'Version Control with Git']","[workshop title like 'Version Control with Git']"
-"index.md","Venue","","Newcastle University, Henry Daysh Building","Newcastle University, Barbara Strang Teaching Centre"
-"index.md","Address","{{page.address}}","Henry Daysh Building 6.19 PGR Learning Lab","Barbara Strang Teaching Centre 3.30 CHART cluster"
-"index.md","Country","","gb",""
-"index.md","Language","","en",""
-"index.md","Latitude","{{page.latitude}}","54.980639","54.979318"
-"index.md","Longitude","{{page.longitude}}","-1.6143042","-1.6169573"
-"index.md","Human date","{{page.humandate}}","DD MMM YYYY","DD MMM YYYY"
-"index.md","Human time","{{page.humantime}}","09:00 - 17:00","09:00 - 17:01"
-"index.md","Start date","","YYYY-MM-DD","YYYY-MM-DD"
-"index.md","End date","","YYYY-MM-DD","YYYY-MM-DD"
-"index.md","Instructor names","","TBA","TBA"
-"index.md","Helper names","","TBA","TBA"
-"index.md","Contact emails","{{email}} or {{page.email}}",""michelle.gilbride@newcastle.ac.uk","jannetta.steyn@newcastle.ac.uk"",""michelle.gilbride@newcastle.ac.uk","jannetta.steyn@newcastle.ac.uk"
-"index.md","Collaborative Notes Link","{{ page.collaborative_notes }}","https://hackmd.io/@rseteam-ncl/[Slug]","https://hackmd.io/@rseteam-ncl/[Slug]"
-"index.md","Eventbrite","{{page.eventbrite}}","-","-"
-"index.md","what3words","{{page.what3words}}",""intro.aims.intent"",""mercy.treat.bolt"
-"_config.yml","Carpentry Workshop swc, lc, cp, incubator","{{site.swc_site}}","swc","swc"
-"_config.yml","Curriculum","{{ site.curriculum }}","swc-gapminder (or swc-inflammation)","swc-gapminder (or swc-inflammation)"
-"_config.yml","Flavor R or Python","","R or python","R or python"
-"_config.yml","pilot","","false","false"
-"_config.yml","title","","[Slug]&[Description]","[Slug]&[Description]"
-"schedule.html","replace with a custom schedule.html file specific to workshop lesson","","https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/tree/main/Schedules","
-"","","","","
-"index.md","Workshop Website","","https://nclrse-training.github.io/[Slug]","https://nclrse-training.github.io/[Slug]"
-"index.md","Collab Note","","https://hackmd.io/@rseteam-ncl/[Slug]","https://hackmd.io/@rseteam-ncl/[Slug]"
-"hackmd","Jupyter URL","","IP of terraformed JupyterHub VM","IP of terraformed JupyterHub VM"
-"auto","Pre- survey","{{ site.pre_survey }}{{ site.github.project_title }}","https://carpentries.typeform.com/to/wi32rS?slug=[Slug]","https://carpentries.typeform.com/to/wi32rS?slug=[Slug]"
-"auto","Post survey","{{ site.post_survey }}{{ site.github.project_title }}","https://carpentries.typeform.com/to/UgVdRQ?slug="[Slug]","https://carpentries.typeform.com/to/UgVdRQ?slug="[Slug]"
-"hackmd","Audience Interaction (Claper / Menti / Vevox) exercises","","","
-"?? instructor only ??","PowerPoint Exercises","","","
-"optional fields","","","","
-"_config.yml","Incubator lesson site","{{site.incubator_lesson_site}}","optional",""
-"incubator pre survey","{{ site.incubator_pre_survey }}","optional"
-"incubator post survey","{{ site.incubator_post_survey }}","optional"
-"","{{ site.pre_survey }}{{ site.github.project_title }}","auto generated"
-"","{{ site.post_survey }}{{ site.github.project_title }}","auto generated"
-"","{{site.swc_github}}","auto filled","
-
+,Components for a Course,,HDB 6.19,BSTC 3.30,
+,Slug,,YYYY-MM-DD-NCL,YYYY-MM-DD-NCL,
+file to edit,name,website variable,HDB,BST,
+https://github.com/NclRSE-Training/[Slug],Repository Name,,[Slug],[Slug],
+https://github.com/NclRSE-Training/[Slug],Repository Description,,"[workshop title like 'Version Control with Git']","[workshop title like 'Version Control with Git']",
+index.md,Venue,,"Newcastle University, Henry Daysh Building","Newcastle University, Barbara Strang Teaching Centre",
+index.md,Address,{{page.address}},Henry Daysh Building 6.19 PGR Learning Lab,Barbara Strang Teaching Centre 3.30 CHART cluster,Barbara Strang Teaching Centre Room BSTC.2.40
+index.md,Country,,gb,,
+index.md,Language,,en,,
+index.md,Latitude,{{page.latitude}},54.980639,54.979318,
+index.md,Longitude,{{page.longitude}},-1.6143042,-1.6169573,
+index.md,Human date,{{page.humandate}},DD MMM YYYY,DD MMM YYYY,
+index.md,Human time,{{page.humantime}},09:00 - 17:00,09:00 - 17:01,
+index.md,Start date,,YYYY-MM-DD,YYYY-MM-DD,
+index.md,End date,,YYYY-MM-DD,YYYY-MM-DD,
+index.md,Instructor names,,TBA,TBA,
+index.md,Helper names,,TBA,TBA,
+index.md,Contact emails,{{email}} or {{page.email}},"'michelle.gilbride@newcastle.ac.uk','jannetta.steyn@newcastle.ac.uk'","'michelle.gilbride@newcastle.ac.uk','jannetta.steyn@newcastle.ac.uk'",
+index.md,Collaborative Notes Link,{{ page.collaborative_notes }},https://hackmd.io/@rseteam-ncl/[Slug],https://hackmd.io/@rseteam-ncl/[Slug],
+index.md,Eventbrite,{{page.eventbrite}},-,-,
+index.md,what3words ,{{page.what3words}},"'intro.aims.intent'","'mercy.treat.bolt'",
+_config.yml,"Carpentry Workshop swc, lc, cp, incubator",{{site.swc_site}},swc,swc,
+_config.yml,Curriculum,{{ site.curriculum }},swc-gapminder (or swc-inflammation),swc-gapminder (or swc-inflammation),
+_config.yml,Flavor R or Python,,R or python,R or python,
+_config.yml,pilot,,false,false,
+_config.yml,title,,[Slug]&[Description],[Slug]&[Description],
+schedule.html,replace with a custom schedule.html file specific to workshop lesson,,https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/tree/main/Schedules,,
+,,,,,
+index.md,Workshop Website,,https://nclrse-training.github.io/[Slug],https://nclrse-training.github.io/[Slug],
+index.md,Collab Note,,https://hackmd.io/@rseteam-ncl/[Slug],https://hackmd.io/@rseteam-ncl/[Slug],
+hackmd,Jupyter URL,,IP of terraformed JupyterHub VM,IP of terraformed JupyterHub VM,
+auto,Pre- survey,{{ site.pre_survey }}{{ site.github.project_title }},https://carpentries.typeform.com/to/wi32rS?slug=[Slug],https://carpentries.typeform.com/to/wi32rS?slug=[Slug],
+auto,Post survey,{{ site.post_survey }}{{ site.github.project_title }},"https://carpentries.typeform.com/to/UgVdRQ?slug='[Slug]","https://carpentries.typeform.com/to/UgVdRQ?slug='[Slug]",
+hackmd,Audience Interaction (Claper / Menti / Vevox) exercises,,,,
+?? instructor only ??,PowerPoint Exercises,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+optional fields,,,,,
+_config.yml,Incubator lesson site,{{site.incubator_lesson_site}},optional,,
+,incubator pre survey,{{ site.incubator_pre_survey }},optional,,
+,incubator post survey,{{ site.incubator_post_survey }},optional,,
+,,{{ site.pre_survey }}{{ site.github.project_title }},auto generated,,
+,,{{ site.post_survey }}{{ site.github.project_title }},auto generated,,
+,,{{site.swc_github}},auto filled,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
