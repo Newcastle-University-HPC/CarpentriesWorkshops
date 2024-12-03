@@ -35,7 +35,7 @@ hackmd,Audience Interaction (Claper / Menti / Vevox) exercises,,,,
 ?? instructor only ??,PowerPoint Exercises,,,,
 ,,,,,
 
-optional fields,,,,,
+*optional fields,,,,,
 _config.yml,Incubator lesson site,{{site.incubator_lesson_site}},optional,,
 ,incubator pre survey,{{ site.incubator_pre_survey }},optional,,
 ,incubator post survey,{{ site.incubator_post_survey }},optional,,
