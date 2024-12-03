@@ -1,0 +1,3 @@
+This workshop makes part of a three-day Software Carpentry workshop but can be taken on its own.
+R is a general-purpose programming language that is useful for writing scripts to work effectively and reproducibly with data.  The goal of this workshop is to teach best practices for using R for data analysis. Note that this workshop will focus on teaching the fundamentals of the programming language R, and will not teach statistical analysis.
+This is an introduction to R designed for participants with no programming experience.
