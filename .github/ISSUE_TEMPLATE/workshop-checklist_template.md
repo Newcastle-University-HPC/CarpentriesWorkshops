@@ -14,8 +14,6 @@ assignees:
 - [ ] Create Collab Document [#47](https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/47)
 - [ ] Create workshop website from carpentries/workshop-template https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/24    
    - [ ] #50
-   - [ ] #48
-   - [ ] #49
 - [ ] Set up Audience Interaction tool 
 - [ ] Check links from **collab doc** and workshop website (maps, schedule, contact emails)
 - [ ] Create ocurrence of this workshop in workshops.ncl.ac.uk
