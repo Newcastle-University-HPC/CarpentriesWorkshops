@@ -12,8 +12,10 @@ assignees:
 - [ ] Add course to [HPC roadmap](https://github.com/orgs/Newcastle-University-HPC/projects/1) _(Click Project in Right Nav)_ 
 - [ ] Allocate Instructors / Helpers
 - [ ] Create Collab Document [#47](https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/47)
-- [ ] Create workshop website from carpentries/workshop-template https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/24 
-    - [ ] [#35 ](https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/35) (update _config.yml, index.md, schedule.html, python setup)
+- [ ] Create workshop website from carpentries/workshop-template https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/24    
+   - [ ] #50
+   - [ ] #48
+   - [ ] #49
 - [ ] Set up Audience Interaction tool 
 - [ ] Check links from **collab doc** and workshop website (maps, schedule, contact emails)
 - [ ] Create ocurrence of this workshop in workshops.ncl.ac.uk
