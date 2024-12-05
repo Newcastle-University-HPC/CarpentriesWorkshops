@@ -11,6 +11,8 @@ assignees:
 - [x] _Book catering - N/A since financial restrictions Oct 2024_
 - [ ] Add course to [HPC roadmap](https://github.com/orgs/Newcastle-University-HPC/projects/1) _(Click Project in Right Nav)_ 
 - [ ] Allocate Instructors / Helpers
+   - [ ] Email Instructors / Helpers and note acceptance
+   - [ ] Calendar invites to instructors/helpers from workshoporganisation@group.newcastle.ac.uk
 - [ ] Create Collab Document [#47](https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/47)
 - [ ] Create workshop website from carpentries/workshop-template https://github.com/Newcastle-University-HPC/CarpentriesWorkshops/issues/24    
    - [ ] #50
@@ -23,8 +25,8 @@ assignees:
 - [ ] Check workshop is visible (https://rse.ncldata.dev/events, https://carpentries.org/index.html, https://workshops.ncl.ac.uk/)
 
 ### 2 weeks beforehand:
-- [ ] Calendar invites to instructors/helpers from workshoporganisation@group.newcastle.ac.uk
-- [ ] Pre-workshop survey reminder emails (send from bookings system https://workshops.ncl.ac.uk/ _or use mail merge from ? email address_)
+- [ ] Instructor / Helepr reminder emails
+- [ ] Pre-workshop survey reminder emails (send from bookings system https://workshops.ncl.ac.uk/ _or use mail merge_)
 - [ ] Create / locate PPT with [exercises for the workshop](https://newcastle.sharepoint.com/sites/workshoporganisation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fworkshoporganisation%2FShared%20Documents%2FWorkshop%20Admin%2FExercisesLessons)
 - [ ] Ensure the correct instructors and helpers are shown at https://carpentries.org/workshops/#workshop-core
 ### Shortly beforehand:
