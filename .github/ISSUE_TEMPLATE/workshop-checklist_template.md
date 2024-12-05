@@ -29,12 +29,13 @@ assignees:
 - [ ] Pre-workshop survey reminder emails (send from bookings system https://workshops.ncl.ac.uk/ _or #57_)
 - [ ] Create / locate PPT with [exercises for the workshop](https://newcastle.sharepoint.com/sites/workshoporganisation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fworkshoporganisation%2FShared%20Documents%2FWorkshop%20Admin%2FExercisesLessons)
 - [ ] Ensure the correct instructors and helpers are shown at https://carpentries.org/workshops/#workshop-core
+
 ### Shortly beforehand:
 - [ ] copy attendees list from workshops.ncl.ac.uk to spreadsheet in [Sharepoint]( https://newcastle.sharepoint.com/:f:/r/sites/workshoporganisation/Shared%20Documents/Workshop%20Admin/Room%20Bookings%20and%20Attendance?csf=1&web=1&e=bOyGg2)
 - [ ] Add users to JupyterHub
-- [ ] Calendar invites to instructors/helpers from workshoporganisation@group.newcastle.ac.uk
 - [ ] Request self-catering tea/coffee from pgrdp (instead of catering)
 - [ ] Print 'cheat sheets'
+
 #### on the day
 - [ ] Start JupyterHub server
 - [ ] mark attendees present in workshops.ncl.ac.uk
