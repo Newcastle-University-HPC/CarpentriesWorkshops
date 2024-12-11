@@ -21,7 +21,7 @@ assignees:
 - [ ] Create ocurrence of this workshop in workshops.ncl.ac.uk
   - [ ] update reminder email to request participants bring own cup
 - [ ] Add to RSE team website (edit [the csv file](https://github.com/NewcastleRSE/rse-team-website/blob/main/_data/events.csv))
-- [ ] Register with Carpentries
+- [ ] #60 
 - [ ] Check workshop is visible (https://rse.ncldata.dev/events, https://carpentries.org/index.html, https://workshops.ncl.ac.uk/)
 
 ### 2 weeks beforehand:
